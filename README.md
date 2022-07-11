@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **<code>Data Structures</code>, <code>Full Stack Web Development</code>**
 
-- 💬 Ask me about **<code>C++</code>, <code>HTML</code>, <code>CSS</code>, <code>Git/Github</code>**
+- 💬 Ask me about **<code>C++</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>React</code>**
 
 - 📫 How to reach me **<code><a href="https://www.linkedin.com/in/aniket-24/">LinkedIn</a></code>** **<code>[Gmail](mailto:aniketskr@gmail.com)</code>**
 
@@ -28,7 +28,7 @@
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/aniket-24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-24" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aniket-kumar-161b9b189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-24" height="30" width="40" /></a>
 <a href="https://instagram.com/aniket_.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniket_.24" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aniket_kr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aniket_kr" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@aniket1395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aniket1395" height="30" width="40" /></a>
