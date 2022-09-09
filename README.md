@@ -5,13 +5,13 @@
   </a>
 </h1>
 
-<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
+<h3 align="center">A young-dumb 🤓 full stack developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-24&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-24" /> </p>
 
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
-<p><i> I'm Aniket a 2nd year Information Technology Undergraduate from Guru Gobind Singh Indraprastha University, Delhi. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> I'm Aniket a 3rd year Information Technology Undergraduate from Guru Gobind Singh Indraprastha University, Delhi. I'm a Tech Enthusiast, full stack Web Developer and an Open Source Contributor. I love to explore and learn about new domains.</i></p>
 
 - 🌱 I’m currently learning **<code>Data Structures</code>, <code>Full Stack Web Development</code>**
 
