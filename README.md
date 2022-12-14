@@ -13,11 +13,11 @@
 
 <p><i> I'm Aniket a 3rd year Information Technology Undergraduate from Guru Gobind Singh Indraprastha University, Delhi. I'm a Tech Enthusiast, full stack Web Developer and an Open Source Contributor. I love to explore and learn about new domains.</i></p>
 
-- 🌱 I’m currently learning **<code>Data Structures</code>, <code>Full Stack Web Development</code>**
+- 🌱 I’m currently learning **<code>Data Structures</code>, <code>Web Development</code>**
 
-- 💬 Ask me about **<code>C++</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>React</code>**
+- 💬 Ask me about **<code>C++</code>, <code>DSA</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>,<code>ReactJS</code>**
 
-- 📫 How to reach me **<code><a href="https://www.linkedin.com/in/aniket-24/">LinkedIn</a></code>** **<code>[Gmail](mailto:aniketskr@gmail.com)</code>**
+- 📫 How to reach me **<code><a href="https://www.linkedin.com/in/aniket-kumar-161b9b189/">LinkedIn</a></code>** **<code>[Gmail](mailto:aniketskr@gmail.com)</code>**
 
 - 👨‍💻 Check out my projects **<code>[here!](https://github.com/aniket-24?tab=repositories)</code>**
 
