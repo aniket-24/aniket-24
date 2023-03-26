@@ -1,52 +1,69 @@
-<!-- <h1 align="center">Hi <img src="https://imgur.com/CTPzCrS.gif" height=30px width=30px>, I'm Aniket Kumar</h1> -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aniket+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&center=true&size=30">
   </a>
 </h1>
 
-<h3 align="center">A young-dumb 🤓 full stack developer from India 🇮🇳</h3>
+<h2>I'm Aniket !! Like to Connect me ?? <img src="https://media.giphy.com/media/26ufplp8yheSKUE00/giphy.gif" width="35"></h2>
+<img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
+- Active on <a href="https://leetcode.com/Aniket_24/">LeetCode</a> 😍
+<br />
+- Sharing updates on <a href="https://www.linkedin.com/in/aniket-kumar-161b9b189/">LinkedIn</a> 😇
+<br />
+- Learning lit bit on <a href="https://www.codechef.com/users/aniket_kr"> CodeChef</a>🙃
+<br />
+- Checkout my Portfolio <a href="https://aniket-kumar.me/"> Portfolio</a> 💝
+<br />
+<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-24&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-24" /> </p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
+```javascript
+const aniket = {
+  pronouns: "He" | "Him",
+  code: ["C/C++", "HTML", "CSS", "Bootstrap", "JavaScript", "jQuery"],
+  askMeAbout: ["DSA", "Web Dev", "Tech"],
+  technologies: {
+    frontEnd: {
+      js: ["React"],
+    },
+  },
+  AboutMyself:
+    "I am an Undergraduate pursuing B.Tech (IT) from USICT,Guru Gobind Singh Indraprastha University, Delhi.",
+  intresedIn: "I am proficient in Problem Solving and Frontend Web Development",
+  openSource:
+    "🚀 I am also an open-source enthusiast. I love how collaboration and knowledge sharing happened through open-source communities.",
+  upcomingPlan:
+    "Upcoming time I am also planing to start an open source community ⭐.",
+  funFact: "Every Fact became Fun Fact when you read facts in funny mood 😄.",
+};
+```
 
-<p><i> I'm Aniket a 3rd year Information Technology Undergraduate from Guru Gobind Singh Indraprastha University, Delhi. I'm a Tech Enthusiast, full stack Web Developer and an Open Source Contributor. I love to explore and learn about new domains.</i></p>
+<br />
 
-- 🌱 I’m currently learning **<code>Data Structures</code>, <code>Web Development</code>**
+## languages and tools:
 
-- 💬 Ask me about **<code>C++</code>, <code>DSA</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>,<code>ReactJS</code>**
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 
-- 📫 How to reach me **<code><a href="https://www.linkedin.com/in/aniket-kumar-161b9b189/">LinkedIn</a></code>** **<code>[Gmail](mailto:aniketskr@gmail.com)</code>**
+🚧 **my todoist stats:**
 
-- 👨‍💻 Check out my projects **<code>[here!](https://github.com/aniket-24?tab=repositories)</code>**
+<!-- TODO-IST:START -->
 
-- 😄 Pronouns **<code>He/Him</code>**
+🏆 134 Karma Points  
+🌸 Completed 15 tasks in '21 year looking forward to do more in '22 year  
+✅ Completed 150 tasks so far  
+⏳ Longest streak is 7 days
 
-- ⚡ Fun fact **<code>I think I am funny</code>**
+<!-- TODO-IST:END -->
 
-<hr>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/aniket-kumar-161b9b189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-24" height="30" width="40" /></a>
-<a href="https://instagram.com/aniket_.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniket_.24" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aniket_kr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aniket_kr" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aniket1395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aniket1395" height="30" width="40" /></a>
+<br  />
 
-</p>
+📈 My Github Stats
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-24&show_icons=true&locale=en&layout=compact" alt="aniket-24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-24&show_icons=true&locale=en" alt="aniket-24" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-24&" alt="aniket-24" /></p>
-
-<p align = "center">
-  <img src = "https://activity-graph.herokuapp.com/graph?username=aniket-24&theme=react-dark" align = "center">
-</p>
-
-<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=aniket-24&show_icons=true&theme=gotham" alt="Sanju" />
+<img width=315 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-24&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  
+<br  />
+<br />
+<br />
