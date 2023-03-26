@@ -28,13 +28,10 @@ const aniket = {
       js: ["React"],
     },
   },
-  AboutMyself:
-    "I am an Undergraduate pursuing B.Tech (IT) from USICT,Guru Gobind Singh Indraprastha University, Delhi.",
+  AboutMyself: "I am an Undergraduate pursuing B.Tech (IT) from USICT,Guru Gobind Singh Indraprastha University, Delhi.",
   intresedIn: "I am proficient in Problem Solving and Frontend Web Development",
-  openSource:
-    "🚀 I am also an open-source enthusiast. I love how collaboration and knowledge sharing happened through open-source communities.",
-  upcomingPlan:
-    "Upcoming time I am also planing to start an open source community ⭐.",
+  openSource: "🚀 I am also an open-source enthusiast. I love how collaboration and knowledge sharing happened through open-source communities.",
+  upcomingPlan: "Upcoming time I am also planing to start an open source community ⭐.",
   funFact: "Every Fact became Fun Fact when you read facts in funny mood 😄.",
 };
 ```
